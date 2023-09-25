@@ -8,6 +8,7 @@ The project is currently in developpement and will include the following feature
 
 | Feature                | Progress                                | Description                                                        |
 |------------------------|:---------------------------------------:|--------------------------------------------------------------------|
+| Google authentication  |  ![90%](https://progress-bar.dev/90)    | Authentication via Google.         |
 | Timetable viewer       |  ![75%](https://progress-bar.dev/75)    | Personalised timetable viewer for every subject and class.         |
 | Ressources sharing     |  ![0%](https://progress-bar.dev/0)      | Hosting and sharing system for studying materials and ressources.  |
 | Study helping modules  |  ![0%](https://progress-bar.dev/0)      | Services for cooperative studying and knowledge exchange.          |
