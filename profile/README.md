@@ -5,7 +5,9 @@ ESIEE-Hub is a social platform for the [ESIEE-Paris](https://www.esiee.fr/) engi
 
 ## Progress
 The project is currently in developpement and will include the following features:
+#### Done
 
+#### In progress
 | Feature                | Progress                                | Description                                                        |
 |------------------------|:---------------------------------------:|--------------------------------------------------------------------|
 | Google authentication  |  ![75%](https://progress-bar.dev/75)    | Authentication via Google.         |
