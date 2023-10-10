@@ -8,7 +8,7 @@ The project is currently in developpement and will include the following feature
 #### Done
 | Feature                | Progress                                | Description                                                         |
 |------------------------|:---------------------------------------:|---------------------------------------------------------------------|
-| Timetable viewer       |  ![100%](https://progress-bar.dev/50)    | Personalised timetable viewer for every subject and class.         |
+| Timetable viewer       |  ![100%](https://progress-bar.dev/100)    | Personalised timetable viewer for every subject and class.         |
 
 #### In progress
 | Feature                | Progress                                | Description                                                        |
