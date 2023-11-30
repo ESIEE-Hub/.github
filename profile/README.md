@@ -8,15 +8,16 @@ The project is currently in developpement and will include the following feature
 #### Done
 | Feature                | Progress                                | Description                                                         |
 |------------------------|:---------------------------------------:|---------------------------------------------------------------------|
-| Timetable viewer       |  ![100%](https://progress-bar.dev/100)    | Personalised timetable viewer for every subject and class.         |
+| Timetable viewer       |  ![100%](https://progress-bar.dev/100)  | Personalised timetable viewer for every subject and class.          |
+| Google authentication  |  ![100%](https://progress-bar.dev/100)  | Authentication via Google.                                          |
+
 
 #### In progress
 | Feature                | Progress                                | Description                                                        |
 |------------------------|:---------------------------------------:|--------------------------------------------------------------------|
-| Google authentication  |  ![75%](https://progress-bar.dev/75)    | Authentication via Google.         |
-| Ressources sharing     |  ![0%](https://progress-bar.dev/0)      | Hosting and sharing system for studying materials and ressources.  |
-| Study helping modules  |  ![0%](https://progress-bar.dev/0)      | Services for cooperative studying and knowledge exchange.          |
-| Community center       |  ![0%](https://progress-bar.dev/0)      | Social platform for students, associations, groups and gathering.  |
+| Ressources sharing     |  ![75%](https://progress-bar.dev/75)    | Hosting and sharing system for studying materials and ressources.  |
+| Study helping modules  |  ![20%](https://progress-bar.dev/20)    | Services for cooperative studying and knowledge exchange.          |
+| Community center       |  ![10%](https://progress-bar.dev/10)    | Social platform for students, associations, groups and gathering.  |
 
 ## Architecture
 The progress uses the following technologies:
@@ -24,3 +25,4 @@ The progress uses the following technologies:
 - [TailwindCSS](https://tailwindcss.com/)
 - [PrismaORM](https://www.prisma.io/)
 - [Docker](https://www.docker.com/)
+- [shadcn](https://ui.shadcn.com/)
