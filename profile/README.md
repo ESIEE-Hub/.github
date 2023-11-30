@@ -1,7 +1,8 @@
 # ESIEE-Hub
 
 ## Description
-ESIEE-Hub is a social platform for the [ESIEE-Paris](https://www.esiee.fr/) engineering school.
+Heurly is a social platform made originally for the [ESIEE-Paris](https://www.esiee.fr/) engineering school.
+The project is being scaled up in order to be available for any university. 
 
 ## Progress
 The project is currently in developpement and will include the following features:
