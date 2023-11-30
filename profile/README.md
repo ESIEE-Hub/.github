@@ -1,4 +1,4 @@
-# ESIEE-Hub
+# Heurly
 
 ## Description
 Heurly is a social platform made originally for the [ESIEE-Paris](https://www.esiee.fr/) engineering school.  
