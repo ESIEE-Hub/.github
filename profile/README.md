@@ -1,29 +1,29 @@
 # Heurly
 
 ## Description
-Heurly is a social platform made originally for the [ESIEE-Paris](https://www.esiee.fr/) engineering school.  
-The project is being scaled up in order to be available for any university. 
+Heurly is an initiative taken originally for [ESIEE Paris](https://www.esiee.fr/en/)'s student as a solution for schedule viewing and documents sharing.
+The project has been scaled up in order to be available for students of any university or any school.
 
-## Progress
-The project is currently in developpement and will include the following features:
-#### Done
-| Feature                | Progress                                | Description                                                         |
-|------------------------|:---------------------------------------:|---------------------------------------------------------------------|
-| Timetable viewer       |  ![100%](https://progress-bar.dev/100)  | Personalised timetable viewer for every subject and class.          |
-| Google authentication  |  ![100%](https://progress-bar.dev/100)  | Authentication via Google.                                          |
+The project is currently is closed testing and will be publicly released soon.
 
+## Features
+### Timetable viewer
+One of the main features of Heurly is its timetable viewer. It is based on a user given API url.
 
-#### In progress
-| Feature                | Progress                                | Description                                                        |
-|------------------------|:---------------------------------------:|--------------------------------------------------------------------|
-| Ressources sharing     |  ![75%](https://progress-bar.dev/75)    | Hosting and sharing system for studying materials and ressources.  |
-| Study helping modules  |  ![20%](https://progress-bar.dev/20)    | Services for cooperative studying and knowledge exchange.          |
-| Community center       |  ![10%](https://progress-bar.dev/10)    | Social platform for students, associations, groups and gathering.  |
+![image](https://github.com/Heurly/.github/assets/74373766/e8de856b-94a9-4c5c-99bd-a5db2dfc2133)
 
-## Architecture
-The progress uses the following technologies:
-- [NextJS](https://nextjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [PrismaORM](https://www.prisma.io/)
-- [Docker](https://www.docker.com/)
-- [shadcn](https://ui.shadcn.com/)
+### Notes taking
+Users have access to a Notion-style WYSIWYG editor based on [novel](https://novel.sh/). The notes can be linked to courses and to the timetable's events.
+Students can share their notes and help eachother better understand their study subjects.
+![image](https://github.com/Heurly/.github/assets/74373766/8dfc4bad-aa2e-4cf7-b783-ae9f9cb8efc8)
+
+### Q&A Forum
+To encourage collaboration and exchanges, Heurly contains a forum for students questions and discussions. The questions can also be linked to courses and timetable's events.
+![image](https://github.com/Heurly/.github/assets/74373766/7c2f1f3f-dd92-4aa7-bb9c-efd97580f124)
+
+### Profile
+A quick access to a student's ressources and settings is available under the profile page.
+![image](https://github.com/Heurly/.github/assets/74373766/1b7f0833-11c4-45d4-a547-85fee67e8cd9)
+
+### PWA
+Heurly is also available on both PC and mobile as a PWA!
