@@ -25,7 +25,7 @@ The project is currently in a closed testing phase and will be publicly released
  <tr>
     <td>
       <h3>Notes taking</h3>
-      Users have access to a Notion-style WYSIWYG editor based on [novel](https://novel.sh/). The notes can be linked to courses and to the timetable's events. Students can share their notes and help eachother better understand their study subjects.
+      Users have access to a Notion-style WYSIWYG editor based on <a href="https://novel.sh/">novel<a>. The notes can be linked to courses and to the timetable's events. Students can share their notes and help eachother better understand their study subjects.
     </td>
     <td><img src="https://github.com/Heurly/.github/assets/74373766/8dfc4bad-aa2e-4cf7-b783-ae9f9cb8efc8" /></td>
  </tr>
