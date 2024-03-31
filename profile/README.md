@@ -9,6 +9,13 @@ The project is currently in a closed testing phase and will be publicly released
 ## Features
 
 <table>
+  <tr>
+    <td>
+      <h3>Google authentication</h3>
+      Heurly uses a Google based authentication.</td>
+    <td><img src="https://github.com/Heurly/.github/assets/74373766/216b525c-0342-4987-b78b-08f418e67bb9" /></td>
+ </tr>
+ <tr>
  <tr>
     <td>
       <h3>Timetable viewer</h3>
