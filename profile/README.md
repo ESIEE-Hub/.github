@@ -1,7 +1,7 @@
 # Heurly
 
 ## Description
-Heurly is an initiative taken originally for [ESIEE Paris](https://www.esiee.fr/en/)'s student as a solution for schedule viewing and documents sharing.
+Heurly is an initiative taken originally for [ESIEE Paris](https://www.esiee.fr/en/)' student as a solution for schedule viewing and documents sharing.
 The project has been scaled up in order to be available for students of any university or any school.
 
 The project is currently is closed testing and will be publicly released soon.
