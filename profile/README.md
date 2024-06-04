@@ -13,21 +13,21 @@ The project is currently in a closed testing phase and will be publicly released
     <td>
       <h3>Google authentication</h3>
       Heurly uses a Google based authentication.</td>
-    <td><img src="https://github.com/Heurly/.github/assets/74373766/216b525c-0342-4987-b78b-08f418e67bb9" /></td>
+    <td><img src="https://github.com/Heurly/.github/assets/74373766/621c85fb-7006-4b57-bb6f-261f3112be7d" /></td>
  </tr>
  <tr>
  <tr>
     <td>
       <h3>Timetable viewer</h3>
       One of the main features of Heurly is its timetable viewer. It is based on a user given API url.</td>
-    <td><img src="https://github.com/Heurly/.github/assets/74373766/e8de856b-94a9-4c5c-99bd-a5db2dfc2133" /></td>
+    <td><img src="https://github.com/Heurly/.github/assets/74373766/3e4a5795-d1dd-4587-a5c5-07212f75b8dd" /></td>
  </tr>
  <tr>
     <td>
       <h3>Notes taking</h3>
       Users have access to a Notion-style WYSIWYG editor based on <a href="https://novel.sh/">novel<a>. The notes can be linked to courses and to the timetable's events. Students can share their notes and help eachother better understand their study subjects.
     </td>
-    <td><img src="https://github.com/Heurly/.github/assets/74373766/8dfc4bad-aa2e-4cf7-b783-ae9f9cb8efc8" /></td>
+    <td><img src="https://github.com/Heurly/.github/assets/74373766/bea12c51-6ceb-46a2-a78b-f70c113b8ab0" /></td>
  </tr>
  <tr>
     <td>
